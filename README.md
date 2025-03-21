@@ -1,12 +1,57 @@
-# React + Vite
+E-commerce Frontend Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Overview
 
-Currently, two official plugins are available:
+This project is a simple e-commerce frontend built with React and the Fake API from Platzi.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Features
 
-## Expanding the ESLint configuration
+Product Listings & Details
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Shopping Cart & Checkout
+
+User Authentication (Firebase)
+
+Responsive Design
+
+🔗 Live Demo
+
+Deployed Site (Add your URL here)
+
+🛠️ Tech Stack
+
+Frontend: React, Tailwind CSS
+
+Authentication: Firebase
+
+API: Fake API from Platzi
+
+Deployment: Vercel/Netlify
+
+🚀 Setup
+
+Clone the repository:
+
+git clone https://github.com/yourusername/ecommerce-clone.git
+cd ecommerce-clone
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+📜 Submission
+
+Deployed Site: https://ecommerecewebsitetask.netlify.app/
+
+GitHub Repository: https://github.com/Umar9823/E-commerce-Website-Task/
+
+
+
